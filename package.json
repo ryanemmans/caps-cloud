@@ -1,0 +1,24 @@
+{
+  "name": "caps-cloud",
+  "version": "1.0.0",
+  "description": "Created by Ryan Emmans",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanemmans/caps-cloud.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanemmans/caps-cloud/issues"
+  },
+  "homepage": "https://github.com/ryanemmans/caps-cloud#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1027.0",
+    "sqs-consumer": "^5.6.0"
+  }
+}
