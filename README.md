@@ -35,7 +35,7 @@ Using only AWS Services: SQS, SNS, Lambda, create a cloud version of the CAPS sy
 
 ## Links
 
-- [Deployed API](https://aws.amazon.com/)
+- [CAPS SNS / SQS](https://aws.amazon.com/)
 - [Pull Requests](https://github.com/ryanemmans/caps-cloud/pulls?q=is%3Apr+is%3Aclosed)
 
 ## Implementation Notes
